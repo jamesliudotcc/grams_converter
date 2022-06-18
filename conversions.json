@@ -1,0 +1,1154 @@
+[
+    {
+        "value": 116.0,
+        "label": "'00' Pizza Flour"
+    },
+    {
+        "value": 336.0,
+        "label": "Agave syrup"
+    },
+    {
+        "value": 120.0,
+        "label": "All-Purpose Flour"
+    },
+    {
+        "value": 96.0,
+        "label": "Almond Flour"
+    },
+    {
+        "value": 84.0,
+        "label": "Almond meal"
+    },
+    {
+        "value": 259.0,
+        "label": "Almond paste (packed)"
+    },
+    {
+        "value": 86.0,
+        "label": "Almonds (sliced)"
+    },
+    {
+        "value": 114.0,
+        "label": "Almonds (slivered)"
+    },
+    {
+        "value": 142.0,
+        "label": "Almonds, whole (unblanched)"
+    },
+    {
+        "value": 103.0,
+        "label": "Amaranth flour"
+    },
+    {
+        "value": 280.0,
+        "label": "Apple juice concentrate"
+    },
+    {
+        "value": 85.0,
+        "label": "Apples (dried, diced)"
+    },
+    {
+        "value": 113.0,
+        "label": "Apples (peeled, sliced)"
+    },
+    {
+        "value": 255.0,
+        "label": "Applesauce"
+    },
+    {
+        "value": 128.0,
+        "label": "Apricots (dried, diced)"
+    },
+    {
+        "value": 120.0,
+        "label": "Artisan Bread Flour"
+    },
+    {
+        "value": 172.0,
+        "label": "Artisan Bread Topping"
+    },
+    {
+        "value": 152.0,
+        "label": "Baker's Cinnamon Filling"
+    },
+    {
+        "value": 128.0,
+        "label": "Baker's Fruit Blend"
+    },
+    {
+        "value": 190.0,
+        "label": "Baker's Special Sugar (superfine sugar, castor sugar)"
+    },
+    {
+        "value": 192.0,
+        "label": "Baking powder"
+    },
+    {
+        "value": 288.0,
+        "label": "Baking soda"
+    },
+    {
+        "value": 170.0,
+        "label": "Baking Sugar Alternative"
+    },
+    {
+        "value": 227.0,
+        "label": "Bananas (mashed)"
+    },
+    {
+        "value": 215.0,
+        "label": "Barley (cooked)"
+    },
+    {
+        "value": 213.0,
+        "label": "Barley (pearled)"
+    },
+    {
+        "value": 92.0,
+        "label": "Barley flakes"
+    },
+    {
+        "value": 85.0,
+        "label": "Barley flour"
+    },
+    {
+        "value": 336.0,
+        "label": "Barley malt syrup"
+    },
+    {
+        "value": 224.0,
+        "label": "Basil pesto"
+    },
+    {
+        "value": 142.0,
+        "label": "Bell peppers (fresh)"
+    },
+    {
+        "value": 142.0,
+        "label": "Berries (frozen)"
+    },
+    {
+        "value": 114.0,
+        "label": "Better Cheddar Cheese Powder"
+    },
+    {
+        "value": 156.0,
+        "label": "Blueberries (dried)"
+    },
+    {
+        "value": 155.0,
+        "label": "Blueberries (fresh or frozen)"
+    },
+    {
+        "value": 241.0,
+        "label": "Blueberry juice"
+    },
+    {
+        "value": 340.0,
+        "label": "Boiled cider"
+    },
+    {
+        "value": 60.0,
+        "label": "Bran cereal"
+    },
+    {
+        "value": 112.0,
+        "label": "Bread crumbs (dried)"
+    },
+    {
+        "value": 84.0,
+        "label": "Bread crumbs (fresh)"
+    },
+    {
+        "value": 50.0,
+        "label": "Bread crumbs (Japanese Panko)"
+    },
+    {
+        "value": 120.0,
+        "label": "Bread Flour"
+    },
+    {
+        "value": 170.0,
+        "label": "Brown rice (cooked)"
+    },
+    {
+        "value": 128.0,
+        "label": "Brown rice flour"
+    },
+    {
+        "value": 213.0,
+        "label": "Brown sugar (dark or light, packed)"
+    },
+    {
+        "value": 170.0,
+        "label": "Buckwheat (whole)"
+    },
+    {
+        "value": 120.0,
+        "label": "Buckwheat Flour"
+    },
+    {
+        "value": 152.0,
+        "label": "Bulgur"
+    },
+    {
+        "value": 226.0,
+        "label": "Butter"
+    },
+    {
+        "value": 227.0,
+        "label": "Buttermilk"
+    },
+    {
+        "value": 144.0,
+        "label": "Buttermilk powder"
+    },
+    {
+        "value": 120.0,
+        "label": "Cacao nibs"
+    },
+    {
+        "value": 112.0,
+        "label": "Cake Enhancer"
+    },
+    {
+        "value": 170.0,
+        "label": "Candied peel"
+    },
+    {
+        "value": 284.0,
+        "label": "Caramel (14-16 individual pieces, 1\" squares)"
+    },
+    {
+        "value": 156.0,
+        "label": "Caramel bits (chopped Heath or toffee)"
+    },
+    {
+        "value": 144.0,
+        "label": "Caraway seeds"
+    },
+    {
+        "value": 256.0,
+        "label": "Carrots (cooked and pur\u00e9ed)"
+    },
+    {
+        "value": 142.0,
+        "label": "Carrots (diced)"
+    },
+    {
+        "value": 99.0,
+        "label": "Carrots (grated)"
+    },
+    {
+        "value": 113.0,
+        "label": "Cashews (chopped)"
+    },
+    {
+        "value": 113.0,
+        "label": "Cashews (whole)"
+    },
+    {
+        "value": 142.0,
+        "label": "Celery (diced)"
+    },
+    {
+        "value": 114.0,
+        "label": "Cheese (Feta)"
+    },
+    {
+        "value": 113.0,
+        "label": "Cheese (grated cheddar, jack, mozzarella, or Swiss)"
+    },
+    {
+        "value": 100.0,
+        "label": "Cheese (grated Parmesan)"
+    },
+    {
+        "value": 227.0,
+        "label": "Cheese (Ricotta)"
+    },
+    {
+        "value": 200.0,
+        "label": "Cherries (candied)"
+    },
+    {
+        "value": 142.0,
+        "label": "Cherries (dried)"
+    },
+    {
+        "value": 160.0,
+        "label": "Cherries (fresh, pitted, chopped)"
+    },
+    {
+        "value": 113.0,
+        "label": "Cherries (frozen)"
+    },
+    {
+        "value": 336.0,
+        "label": "Cherry Concentrate"
+    },
+    {
+        "value": 85.0,
+        "label": "Chickpea flour"
+    },
+    {
+        "value": 42.0,
+        "label": "Chives (fresh)"
+    },
+    {
+        "value": 170.0,
+        "label": "Chocolate (chopped)"
+    },
+    {
+        "value": 170.0,
+        "label": "Chocolate Chips"
+    },
+    {
+        "value": 170.0,
+        "label": "Chocolate Chunks"
+    },
+    {
+        "value": 140.0,
+        "label": "Cinnamon Sweet Bits"
+    },
+    {
+        "value": 200.0,
+        "label": "Cinnamon-Sugar"
+    },
+    {
+        "value": 84.0,
+        "label": "Cocoa (unsweetened)"
+    },
+    {
+        "value": 85.0,
+        "label": "Coconut (sweetened, shredded)"
+    },
+    {
+        "value": 85.0,
+        "label": "Coconut (toasted)"
+    },
+    {
+        "value": 85.0,
+        "label": "Coconut (unsweetened, desiccated)"
+    },
+    {
+        "value": 60.0,
+        "label": "Coconut (unsweetened, large flakes)"
+    },
+    {
+        "value": 53.0,
+        "label": "Coconut (unsweetened, shredded)"
+    },
+    {
+        "value": 128.0,
+        "label": "Coconut Flour"
+    },
+    {
+        "value": 241.0,
+        "label": "Coconut milk; canned, well shaken"
+    },
+    {
+        "value": 114.0,
+        "label": "Coconut Milk Powder"
+    },
+    {
+        "value": 226.0,
+        "label": "Coconut oil"
+    },
+    {
+        "value": 154.0,
+        "label": "Coconut sugar"
+    },
+    {
+        "value": 113.5,
+        "label": "Confectioners' sugar (unsifted)"
+    },
+    {
+        "value": 85.0,
+        "label": "Cookie crumbs"
+    },
+    {
+        "value": 152.0,
+        "label": "Corn (fresh or frozen)"
+    },
+    {
+        "value": 5.25,
+        "label": "Corn (popped)"
+    },
+    {
+        "value": 312.0,
+        "label": "Corn syrup"
+    },
+    {
+        "value": 138.0,
+        "label": "Cornmeal (whole)"
+    },
+    {
+        "value": 156.0,
+        "label": "Cornmeal (yellow, Quaker)"
+    },
+    {
+        "value": 112.0,
+        "label": "Cornstarch"
+    },
+    {
+        "value": 149.0,
+        "label": "Cracked wheat"
+    },
+    {
+        "value": 114.0,
+        "label": "Cranberries (dried)"
+    },
+    {
+        "value": 99.0,
+        "label": "Cranberries (fresh or frozen)"
+    },
+    {
+        "value": 227.0,
+        "label": "Cream (heavy cream, light cream, or half & half)"
+    },
+    {
+        "value": 227.0,
+        "label": "Cream cheese"
+    },
+    {
+        "value": 284.0,
+        "label": "Cream of coconut"
+    },
+    {
+        "value": 184.0,
+        "label": "Crystallized ginger"
+    },
+    {
+        "value": 142.0,
+        "label": "Currants"
+    },
+    {
+        "value": 149.0,
+        "label": "Dates (chopped)"
+    },
+    {
+        "value": 220.0,
+        "label": "Demerara sugar"
+    },
+    {
+        "value": 112.0,
+        "label": "Dried Blueberry Powder"
+    },
+    {
+        "value": 112.0,
+        "label": "Dried milk (Baker's Special Dry Milk)"
+    },
+    {
+        "value": 112.0,
+        "label": "Dried nonfat milk (powdered)"
+    },
+    {
+        "value": 86.0,
+        "label": "Dried potato flakes (instant mashed potatoes)"
+    },
+    {
+        "value": 100.0,
+        "label": "Dried whole milk (powdered)"
+    },
+    {
+        "value": 124.0,
+        "label": "Durum Flour"
+    },
+    {
+        "value": 144.0,
+        "label": "Easy Roll Dough Improver"
+    },
+    {
+        "value": 88.0,
+        "label": "Egg whites (dried)"
+    },
+    {
+        "value": 112.0,
+        "label": "Espresso Powder"
+    },
+    {
+        "value": 140.0,
+        "label": "Everything Bagel Topping"
+    },
+    {
+        "value": 149.0,
+        "label": "Figs (dried, chopped)"
+    },
+    {
+        "value": 106.0,
+        "label": "First Clear Flour"
+    },
+    {
+        "value": 100.0,
+        "label": "Flax meal"
+    },
+    {
+        "value": 140.0,
+        "label": "Flaxseed"
+    },
+    {
+        "value": 120.0,
+        "label": "French-Style Flour"
+    },
+    {
+        "value": 120.0,
+        "label": "Fruitcake Fruit Blend"
+    },
+    {
+        "value": 224.0,
+        "label": "Garlic (minced)"
+    },
+    {
+        "value": 149.0,
+        "label": "Garlic (peeled and sliced)"
+    },
+    {
+        "value": 176.0,
+        "label": "Ghee"
+    },
+    {
+        "value": 228.0,
+        "label": "Ginger (fresh, sliced)"
+    },
+    {
+        "value": 120.0,
+        "label": "Gluten-Free All-Purpose Baking Mix"
+    },
+    {
+        "value": 156.0,
+        "label": "Gluten-Free All-Purpose Flour"
+    },
+    {
+        "value": 120.0,
+        "label": "Gluten-Free Measure for Measure Flour"
+    },
+    {
+        "value": 234.0,
+        "label": "Gluten-Free sourdough starter"
+    },
+    {
+        "value": 99.0,
+        "label": "Graham cracker crumbs (boxed)"
+    },
+    {
+        "value": 142.0,
+        "label": "Graham crackers (crushed)"
+    },
+    {
+        "value": 113.0,
+        "label": "Granola"
+    },
+    {
+        "value": 114.0,
+        "label": "Grape Nuts"
+    },
+    {
+        "value": 148.0,
+        "label": "Harvest Grains Blend"
+    },
+    {
+        "value": 89.0,
+        "label": "Hazelnut flour"
+    },
+    {
+        "value": 312.0,
+        "label": "Hazelnut Praline Paste"
+    },
+    {
+        "value": 320.0,
+        "label": "Hazelnut spread"
+    },
+    {
+        "value": 142.0,
+        "label": "Hazelnuts (whole)"
+    },
+    {
+        "value": 128.0,
+        "label": "Hi-Maize Natural Fiber"
+    },
+    {
+        "value": 120.0,
+        "label": "High-Gluten Flour"
+    },
+    {
+        "value": 336.0,
+        "label": "Honey"
+    },
+    {
+        "value": 176.0,
+        "label": "Instant ClearJel"
+    },
+    {
+        "value": 110.0,
+        "label": "Irish-Style Flour"
+    },
+    {
+        "value": 106.0,
+        "label": "Italian-Style Flour"
+    },
+    {
+        "value": 340.0,
+        "label": "Jam or preserves"
+    },
+    {
+        "value": 184.0,
+        "label": "Jammy Bits"
+    },
+    {
+        "value": 120.0,
+        "label": "Keto Wheat Flour"
+    },
+    {
+        "value": 227.0,
+        "label": "Key Lime Juice"
+    },
+    {
+        "value": 226.0,
+        "label": "Lard"
+    },
+    {
+        "value": 92.0,
+        "label": "Leeks (diced)"
+    },
+    {
+        "value": 224.0,
+        "label": "Lemon juice"
+    },
+    {
+        "value": 144.0,
+        "label": "Lemon Juice Powder"
+    },
+    {
+        "value": 144.0,
+        "label": "Lime Juice Powder"
+    },
+    {
+        "value": 149.0,
+        "label": "Macadamia nuts (whole)"
+    },
+    {
+        "value": 344.0,
+        "label": "Malt syrup"
+    },
+    {
+        "value": 140.0,
+        "label": "Malted Milk Powder"
+    },
+    {
+        "value": 128.0,
+        "label": "Malted Wheat Flakes"
+    },
+    {
+        "value": 156.0,
+        "label": "Maple sugar"
+    },
+    {
+        "value": 312.0,
+        "label": "Maple syrup"
+    },
+    {
+        "value": 72.0,
+        "label": "Marshmallow spread, homemade"
+    },
+    {
+        "value": 123.0,
+        "label": "Marshmallow spread, store-bought"
+    },
+    {
+        "value": 128.0,
+        "label": "Marshmallow Fluff\u00ae"
+    },
+    {
+        "value": 43.0,
+        "label": "Marshmallows (mini)"
+    },
+    {
+        "value": 290.0,
+        "label": "Marzipan"
+    },
+    {
+        "value": 93.0,
+        "label": "Masa Harina"
+    },
+    {
+        "value": 227.0,
+        "label": "Mascarpone cheese"
+    },
+    {
+        "value": 213.0,
+        "label": "Mashed potatoes"
+    },
+    {
+        "value": 240.0,
+        "label": "Mashed sweet potatoes"
+    },
+    {
+        "value": 226.0,
+        "label": "Mayonnaise"
+    },
+    {
+        "value": 106.0,
+        "label": "Medium Rye Flour"
+    },
+    {
+        "value": 172.0,
+        "label": "Meringue powder"
+    },
+    {
+        "value": 226.0,
+        "label": "Milk (evaporated)"
+    },
+    {
+        "value": 227.0,
+        "label": "Milk (fresh)"
+    },
+    {
+        "value": 206.0,
+        "label": "Millet (whole)"
+    },
+    {
+        "value": 177.0,
+        "label": "Mini chocolate chips"
+    },
+    {
+        "value": 340.0,
+        "label": "Molasses"
+    },
+    {
+        "value": 78.0,
+        "label": "Mushrooms (sliced)"
+    },
+    {
+        "value": 144.0,
+        "label": "Non-Diastatic Malt Powder"
+    },
+    {
+        "value": 106.0,
+        "label": "Oat bran"
+    },
+    {
+        "value": 92.0,
+        "label": "Oat flour"
+    },
+    {
+        "value": 89.0,
+        "label": "Oats (old-fashioned or quick-cooking)"
+    },
+    {
+        "value": 147.0,
+        "label": "Oats (prepared)"
+    },
+    {
+        "value": 200.0,
+        "label": "Olive oil"
+    },
+    {
+        "value": 142.0,
+        "label": "Olives (sliced)"
+    },
+    {
+        "value": 142.0,
+        "label": "Onions (fresh, diced)"
+    },
+    {
+        "value": 104.0,
+        "label": "Paleo Baking Flour"
+    },
+    {
+        "value": 180.0,
+        "label": "Palm shortening"
+    },
+    {
+        "value": 180.0,
+        "label": "Passion fruit pur\u00e9e"
+    },
+    {
+        "value": 145.0,
+        "label": "Pasta Flour Blend"
+    },
+    {
+        "value": 106.0,
+        "label": "Pastry Flour"
+    },
+    {
+        "value": 113.0,
+        "label": "Pastry Flour Blend"
+    },
+    {
+        "value": 170.0,
+        "label": "Peaches (peeled and diced)"
+    },
+    {
+        "value": 270.0,
+        "label": "Peanut butter"
+    },
+    {
+        "value": 142.0,
+        "label": "Peanuts (whole, shelled)"
+    },
+    {
+        "value": 163.0,
+        "label": "Pears (peeled and diced)"
+    },
+    {
+        "value": 80.0,
+        "label": "Pecan Meal"
+    },
+    {
+        "value": 114.0,
+        "label": "Pecans (diced)"
+    },
+    {
+        "value": 184.0,
+        "label": "Pie Filling Enhancer"
+    },
+    {
+        "value": 142.0,
+        "label": "Pine nuts"
+    },
+    {
+        "value": 256.0,
+        "label": "Pineapple (crushed, drained)"
+    },
+    {
+        "value": 142.0,
+        "label": "Pineapple (dried)"
+    },
+    {
+        "value": 170.0,
+        "label": "Pineapple (fresh or canned, diced)"
+    },
+    {
+        "value": 120.0,
+        "label": "Pistachio nuts (shelled)"
+    },
+    {
+        "value": 312.0,
+        "label": "Pistachio Paste"
+    },
+    {
+        "value": 96.0,
+        "label": "Pizza Dough Flavor"
+    },
+    {
+        "value": 124.0,
+        "label": "Pizza Flour Blend"
+    },
+    {
+        "value": 228.0,
+        "label": "Pizza sauce"
+    },
+    {
+        "value": 80.0,
+        "label": "Pizza Seasoning"
+    },
+    {
+        "value": 163.0,
+        "label": "Polenta (coarse ground cornmeal)"
+    },
+    {
+        "value": 144.0,
+        "label": "Poppy seeds"
+    },
+    {
+        "value": 184.0,
+        "label": "Potato Flour"
+    },
+    {
+        "value": 152.0,
+        "label": "Potato starch"
+    },
+    {
+        "value": 106.0,
+        "label": "Pumpernickel Flour"
+    },
+    {
+        "value": 227.0,
+        "label": "Pumpkin pur\u00e9e"
+    },
+    {
+        "value": 184.0,
+        "label": "Quinoa (cooked)"
+    },
+    {
+        "value": 177.0,
+        "label": "Quinoa (whole)"
+    },
+    {
+        "value": 110.0,
+        "label": "Quinoa flour"
+    },
+    {
+        "value": 149.0,
+        "label": "Raisins (loose)"
+    },
+    {
+        "value": 170.0,
+        "label": "Raisins (packed)"
+    },
+    {
+        "value": 120.0,
+        "label": "Raspberries (fresh)"
+    },
+    {
+        "value": 120.0,
+        "label": "Rhubarb (sliced, 1/2\" slices)"
+    },
+    {
+        "value": 198.0,
+        "label": "Rice (long grain, dry)"
+    },
+    {
+        "value": 142.0,
+        "label": "Rice flour (white)"
+    },
+    {
+        "value": 28.0,
+        "label": "Rice Krispies"
+    },
+    {
+        "value": 112.0,
+        "label": "Rye Bread Improver"
+    },
+    {
+        "value": 120.0,
+        "label": "Rye Chops"
+    },
+    {
+        "value": 124.0,
+        "label": "Rye flakes"
+    },
+    {
+        "value": 106.0,
+        "label": "Rye Flour Blend"
+    },
+    {
+        "value": 128.0,
+        "label": "Salt (Kosher, Diamond Crystal)"
+    },
+    {
+        "value": 256.0,
+        "label": "Salt (Kosher, Morton's)"
+    },
+    {
+        "value": 288.0,
+        "label": "Salt (table)"
+    },
+    {
+        "value": 64.0,
+        "label": "Scallions (sliced)"
+    },
+    {
+        "value": 113.0,
+        "label": "Self-Rising Flour"
+    },
+    {
+        "value": 163.0,
+        "label": "Semolina Flour"
+    },
+    {
+        "value": 142.0,
+        "label": "Sesame seeds"
+    },
+    {
+        "value": 156.0,
+        "label": "Shallots (peeled and sliced)"
+    },
+    {
+        "value": 128.0,
+        "label": "Six-Grain Blend"
+    },
+    {
+        "value": 114.0,
+        "label": "Snow White Non-Melting Topping Sugar"
+    },
+    {
+        "value": 138.0,
+        "label": "Sorghum flour"
+    },
+    {
+        "value": 227.0,
+        "label": "Sour cream"
+    },
+    {
+        "value": 234.0,
+        "label": "Sourdough starter"
+    },
+    {
+        "value": 140.0,
+        "label": "Soy flour"
+    },
+    {
+        "value": 228.0,
+        "label": "Sparkling Sugar"
+    },
+    {
+        "value": 99.0,
+        "label": "Spelt Flour"
+    },
+    {
+        "value": 113.0,
+        "label": "Sprouted Wheat Flour"
+    },
+    {
+        "value": 140.0,
+        "label": "Steel cut oats"
+    },
+    {
+        "value": 99.0,
+        "label": "Sticky Bun Sugar"
+    },
+    {
+        "value": 167.0,
+        "label": "Strawberries (fresh sliced)"
+    },
+    {
+        "value": 198.0,
+        "label": "Sugar (granulated white)"
+    },
+    {
+        "value": 25.0,
+        "label": "Sugar substitute (Splenda)"
+    },
+    {
+        "value": 170.0,
+        "label": "Sundried tomatoes (dry pack)"
+    },
+    {
+        "value": 140.0,
+        "label": "Sunflower seeds"
+    },
+    {
+        "value": 106.0,
+        "label": "Super 10 Blend"
+    },
+    {
+        "value": 112.0,
+        "label": "Sweet Ground Chocolate\u00a0and Cocoa Blend"
+    },
+    {
+        "value": 312.0,
+        "label": "Sweetened condensed milk"
+    },
+    {
+        "value": 256.0,
+        "label": "Tahini paste"
+    },
+    {
+        "value": 113.0,
+        "label": "Tapioca starch or flour"
+    },
+    {
+        "value": 168.0,
+        "label": "Tapioca (quick cooking)"
+    },
+    {
+        "value": 135.0,
+        "label": "Teff flour"
+    },
+    {
+        "value": 140.0,
+        "label": "The Works Bread Topping"
+    },
+    {
+        "value": 96.0,
+        "label": "Toasted Almond Flour"
+    },
+    {
+        "value": 156.0,
+        "label": "Toffee chunks"
+    },
+    {
+        "value": 232.0,
+        "label": "Tomato paste"
+    },
+    {
+        "value": 135.0,
+        "label": "Tropical Fruit Blend"
+    },
+    {
+        "value": 180.0,
+        "label": "Turbinado sugar (raw)"
+    },
+    {
+        "value": 120.0,
+        "label": "Unbleached Cake Flour"
+    },
+    {
+        "value": 224.0,
+        "label": "Vanilla Extract"
+    },
+    {
+        "value": 198.0,
+        "label": "Vegetable oil"
+    },
+    {
+        "value": 184.0,
+        "label": "Vegetable shortening"
+    },
+    {
+        "value": 144.0,
+        "label": "Vital Wheat Gluten"
+    },
+    {
+        "value": 113.0,
+        "label": "Walnuts (chopped)"
+    },
+    {
+        "value": 128.0,
+        "label": "Walnuts (whole)"
+    },
+    {
+        "value": 227.0,
+        "label": "Water"
+    },
+    {
+        "value": 184.0,
+        "label": "Wheat berries (red)"
+    },
+    {
+        "value": 64.0,
+        "label": "Wheat bran"
+    },
+    {
+        "value": 112.0,
+        "label": "Wheat germ"
+    },
+    {
+        "value": 170.0,
+        "label": "White Chocolate Chips"
+    },
+    {
+        "value": 106.0,
+        "label": "White Rye Flour"
+    },
+    {
+        "value": 113.0,
+        "label": "White Whole Wheat Flour"
+    },
+    {
+        "value": 113.0,
+        "label": "Whole Grain Flour Blend"
+    },
+    {
+        "value": 113.0,
+        "label": "Whole Wheat Flour (Premium 100%)"
+    },
+    {
+        "value": 96.0,
+        "label": "Whole Wheat Pastry Flour / Graham Flour"
+    },
+    {
+        "value": 144.0,
+        "label": "Yeast (instant)"
+    },
+    {
+        "value": 227.0,
+        "label": "Yogurt"
+    },
+    {
+        "value": 135.5,
+        "label": "Zucchini (shredded)"
+    }
+]

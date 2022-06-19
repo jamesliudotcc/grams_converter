@@ -1,0 +1,9 @@
+* README
+
+** Running
+
+Install using npm ci and npm run dev.
+
+** Scraping the data
+
+The whole backend is a Python script that scrapes a conversion table and normalizes it. You shouldn't need to do that since the result is saved as a JSON file that serves as the "database." The only requirement to run the scraping script is Pandas.

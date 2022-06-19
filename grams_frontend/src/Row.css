@@ -1,0 +1,11 @@
+article {
+    display: flex;
+}
+p {
+    color: hsl(0,0%,25%)
+}
+.result { /* Vertically center the result */
+    padding-left: 12px;
+    display: flex;
+    flex-direction: column;
+}

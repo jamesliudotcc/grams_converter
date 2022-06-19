@@ -1,45 +1,30 @@
-import { useState } from 'react'
-import Select from 'react-select'
-import conversions from '../../conversions.json'
+import React, { useState } from 'react'
 import './App.css'
 
-const UNITS = [
-    {label: "Cup", value: 1},
-    {label: "Ounce", value: 8},
-    {label: "Tablespoon", value: 16},
-    {label: "Teaspooon", value: 48},
-]
-
-const convert = (input, unit, conversion) => {
-  return ((input || 0) * (conversion?.value || 0) / (unit?.value || 1)).toFixed(1)
-}
+import Row from './Row'
 
 function App() {
-  const [inputValue, setInputValue] = useState(0)
-  const [selectedUnit, setSelectedUnit] = useState(null)
-  const [selectedConversion, setSelectedConversion] = useState(null)
+  const [num, setNum] = useState(1);
+  const [scale, setScale] = useState(1);
 
-  const handleInputValueChange = (e: any) => {
-    const inputValue = Number(e.target.value)
-    setInputValue(e.target.value)
+  const incrNum = () => {
+    setNum(num + 1);
+  };
+
+  const _setScale = (e: any) => {
+    setScale(e.target.value)
   }
 
   return (
-    <div className="App">
-         <input
-             type="number"
-             onChange={handleInputValueChange}
-         />
-         <Select
-             onChange={setSelectedUnit}
-             options={UNITS}
-         />
-         <Select
-             onChange={setSelectedConversion}
-             options={conversions}
-         />
-         {convert(inputValue, selectedUnit, selectedConversion)} g
-    </div>
+    <>
+      <h1>Gram Scale Converter</h1>
+      {[...Array(num)].map((_, i) => (
+        <Row key={i} scale={scale}/>
+      ))}
+      <button onClick={incrNum}>More</button>
+      <h2>Scaling</h2>
+      <input type="number" placeholder="1" onChange={_setScale}/>
+    </>
   )
 }
 

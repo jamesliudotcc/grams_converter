@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Select from "react-select";
-import conversions from "../../conversions.json";
+import conversions from "../conversions.json";
 import "./Row.css";
 
 interface RowProp {
@@ -43,14 +43,14 @@ function Row(props: RowProp) {
   const defaultConversion = conversions[0];
 
   const [inputValue, setInputValue] = useState(0);
-  const [selectedUnit, setSelectedUnit] = useState<Unit>(defaultUnit);
+  const [selectedUnit, setSelectedUnit] = useState(defaultUnit);
   const [selectedConversion, setSelectedConversion] = useState(defaultConversion);
 
   const handleInputValueChange = (e: any) => {
     const inputValue = Number(e.target.value);
-    setInputValue(e.target.value);
+    setInputValue(inputValue);
   };
-
+4173
   return (
     <article>
       <input

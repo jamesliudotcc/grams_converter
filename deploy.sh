@@ -6,6 +6,7 @@ set -e
 npm run build
 
 cd dist
+# TODO delete .git directory if it exists.
 git init
 git checkout -b main
 git add -A

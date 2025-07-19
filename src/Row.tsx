@@ -50,7 +50,6 @@ function Row(props: RowProp) {
     const inputValue = Number(e.target.value);
     setInputValue(inputValue);
   };
-4173
   return (
     <article>
       <input

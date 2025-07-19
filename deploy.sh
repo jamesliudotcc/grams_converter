@@ -3,7 +3,7 @@
 # Abort on errors
 set -e
 
-npm run build
+pnpm run build
 
 cd dist
 # TODO delete .git directory if it exists.

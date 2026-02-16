@@ -13,26 +13,14 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'pnpm'
-
-      - name: Enable Corepack and prepare pnpm
-        run: corepack enable && corepack prepare pnpm@latest --activate
-
-      - name: Debug PATH
-        run: echo $PATH
-
-      - name: Debug which pnpm
-        run: which pnpm || echo "pnpm not found in PATH"
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
 
       - name: Install dependencies
-        run: pnpm install
+        run: bun install
 
       - name: Build project
-        run: pnpm run build
+        run: bun run build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

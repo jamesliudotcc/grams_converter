@@ -1,9 +1,10 @@
-import { render, screen, fireEvent } from '@testing-library/react';
-import { describe, it, expect } from 'vitest';
+import { render, screen, fireEvent, cleanup } from '@testing-library/react';
+import { describe, it, expect, afterEach } from 'bun:test';
 
 import App from './App';
 
 describe('App', () => {
+  afterEach(cleanup);
   it('renders the main heading and initial row', () => {
     render(<App />);
     const heading = screen.getByText(/Gram Scale Converter/i);
